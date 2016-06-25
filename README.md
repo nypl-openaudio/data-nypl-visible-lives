@@ -5,6 +5,16 @@ This repository contains all the materials contributed by [Visible Lives](http:/
 ## Usage
 Use of these materials is restricted to participants of Open Audio Weekend during that two day event. Please direct any questions to [togetherwelisten@nypl.org](mailto:togetherwelisten@nypl.org).
 
+## Git Instructions
+To pull the audio files you will need to install [git-lfs](https://git-lfs.github.com/)
+
+```
+brew install git-lfs
+# clone the repo as you would normally do
+# enter directory
+git lfs pull
+```
+
 ## The Collection Description
 [Visible Lives: Oral Histories of the Disability Experience](http://oralhistory.nypl.org/neighborhoods/visible-lives) is an oral history project by [The New York Public Library Community Oral History Project](http://oralhistory.nypl.org/) that works to both preserve and document a thematic history through personal recollections. This project will collect stories of people who are living with a disability and the Library will train community members to conduct these interviews.
 
